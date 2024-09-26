@@ -1,6 +1,15 @@
+- name: Albert Garcia
+  photo: Albert1_headshot.jpg
+  info: Postdoctoral Associate | Assistant Professor (University of Utah)
+  email: alberto.garcia@yale.edu
+  website: <a href="https://www.garcia-alberto.com/">Personal Website</a> 
+  number_educ: 2
+  education1: BA Math and Economics, Willamette University 2016
+  education2: PhD Environmental Science and Management, UCSB 2023
+
 - name: Cesar B Martinez-Alvarez
   photo: cesar.jpg
-  info: Donnelley Postdoctoral Associate | Incoming Assistant Professor of Political Science (UCSB)
+  info: Donnelley Postdoctoral Associate | Assistant Professor of Political Science (UCSB)
   email: cesar.martinez-alvarez@yale.edu
   website: <a href="https://www.cesarbmartinez.com/">Personal Website</a>
   number_educ: 3
@@ -10,12 +19,13 @@
 
 - name: Matthew Gordon
   photo: headshot.jpg
-  info: PhD Candidate in Environmental Economics
+  info: Assistant professor at Paris School of Economics
   email: m.gordon@yale.edu
   website: <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
   number_educ: 2
-  education1: Msc Economic Geography from London School of Economics
-  education2: BA Philosophy from Hamilton College
+  education1: PhD in  Environmental Economics
+  education2: Msc Economic Geography from London School of Economics
+  education3: BA Philosophy from Hamilton College
   
 - name: Gabe Snashall
   photo: gabe.jpeg
