@@ -12,14 +12,24 @@
   photo: Owen.jpg
   info: Postdoctoral Associate at Yale School of the Environment
   email: owen.cortner@yale.edu
+  website: <a href="https://ocortner.github.io/">Personal Website</a>
   number_educ: 3
   education1: B.S. Environmental Science, New Mexico State University, 2011
   education2: M.S. International Agricultural Development, UC Davis, 2016
   education3: Dr. sc. Environmental Policy, ETH Zürich, 2023
 
+- name: Sarah Castle
+  photo: sarah.jpeg
+  info: Postdoctoral Associate at Yale School of the Environment
+  email: sarah.castle@yale.edu
+  website: <a href="https://sarahecastle.weebly.com/">Personal Website</a>
+  number_educ: 2
+  education1: MA Natural Resources and Environmental Science, University of Illinois Urbana-Champaign, 2019
+  education2: PhD Natural Resources and Environmental Science, University of Illinois Urbana-Champaign, 2024
+
 - name: Megan Ayers
   photo: megan_ayers.jpeg
-  info: PhD Student in Statistics & Data Science
+  info: PhD Candidate in Statistics & Data Science
   email: m.ayers@yale.edu
   number_educ: 1
   education1: BA Math and Physics, Lewis & Clark College 2019
@@ -34,17 +44,18 @@
   
 - name: Eliana Stone
   photo: stone.jpg
-  info: Master of Environmental Science Student, started August 2022
+  info: PhD Student at Yale School of the Environment, Environmental and Natural Resource Economics Group
   email: eliana.stone@yale.edu
-  number_educ: 1
-  education1: BA Economics and Environmental Studies, UCSB 2022
+  number_educ: 2
+  education1: BA Economics and Environmental Studies, UCSB, 2022
+  education2: Master of Environmental Science, Yale School of the Environment, 2024
   
-- name: Allie Garrett
-  photo: Allie.jpeg
-  info: Master of Environmental Management Student, started August 2022
-  email: allie.garrett@yale.edu
+- name: Maike Pfeiffer
+  photo: maike.jpeg
+  info: PhD Student at Yale School of the Environment, Environmental and Natural Resource Economics Group
+  email: maike.pfeiffer@yale.edu
   number_educ: 1
-  education1: B.S. Sustainable Development, Concentration in Community, Regional and Global Development, 2015
+  education1: BS in Data Science & Statistics and Policy, Minerva University, 2020
 
 - name: Gracia Hadiwidjaja (Grace) 
   photo: Grace.jpeg
@@ -53,6 +64,21 @@
   number_educ: 2
   education1: B.A. Mathematics and Religious Studies, University of Virginia
   education2: Msc. Policy Analysis, KU Leuven
+
+- name: Apurva Duddu 
+  info: PhD Student at Yale School of the Environment
+  email: apurva.dudu@yale.edu
+  number_educ: 2
+  education1: B.Sc. Economics, Symbiosis School of Economics
+  education2: M.A., Natural Resources and Governance, Tata Institute of Social Sciences
+
+- name: Mariam Gedenidze
+  photo: mariam.jpeg
+  info: Master of Environmental Science Student
+  email: mariam.gedenidze@yale.edu
+  number_educ: 2
+  education1: Bachelor of Science in Mathematics and Economics, Ecole Polytechnique, 2023
+  education2: Master in Applied Mathematics and Statistics, IP Paris, 2024
   
 - name: Izzi Hu
   photo: Izzi.jpeg
