@@ -79,6 +79,13 @@
   number_educ: 2
   education1: B.Sc. in Mathematics and Economics, Ecole Polytechnique, 2023
   education2: Master in Applied Mathematics and Statistics, IP Paris, 2024
+
+- name: Mike Zhang
+  photo: Mike_Zhang.JPG
+  info: Undergraduate Research Assistant
+  email: mike.zhang@yale.edu
+  number_educ: 1
+  education1: 
   
 - name: Izzi Hu
   photo: Izzi.jpeg
