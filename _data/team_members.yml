@@ -24,6 +24,14 @@
   number_educ: 1
   education1: BA Math and Physics, Lewis & Clark College 2019
 
+- name: Reid Lewis
+  photo: reid_lewis.jpeg
+  info: PhD Candidate at Yale School of the Environment
+  email: reid.lewis@yale.edu
+  number_educ: 2
+  education1: MF, Yale Forest School, 2020
+  education2: B.Sc. Biology, Westminster College, 2014
+
 - name: Lauren Oliver
   photo: lauren.jpg
   info: PhD Student at Yale School of the Environment, Environmental and Natural Resource Economics Group
@@ -45,7 +53,7 @@
   info: PhD Student at Yale School of the Environment, Environmental and Natural Resource Economics Group
   email: maike.pfeiffer@yale.edu
   number_educ: 1
-  education1: B.Sc. in Data Science & Statistics and Policy, Minerva University, 2020
+  education1: B.Sc. Data Science & Statistics and Policy, Minerva University, 2020
 
 - name: Gracia Hadiwidjaja (Grace) 
   photo: Grace.jpeg
